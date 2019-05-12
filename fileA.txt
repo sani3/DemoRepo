@@ -1,1 +1,1 @@
-This is a sample file for demonstration.
+This is a sample file for demonstration in Version Control with Git
